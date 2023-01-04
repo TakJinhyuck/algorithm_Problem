@@ -6,9 +6,10 @@ public class Main {
 		int A = 150;
 		int B = 266;
 		int C = 427;
-		int [] arr = new int [10];//0~9±îÁö
+		int [] arr = new int [10];//0~9ï¿½ï¿½ï¿½ï¿½
 		int total = A*B*C;
 		System.out.println(total%10);
+		String localTest = "";
 	}
 
 }
